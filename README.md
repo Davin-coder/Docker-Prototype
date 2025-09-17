@@ -2,7 +2,7 @@
 
 # Guía Basica - Conociendo Docker
 
-<img style="margin: 0 5px" width="88" src="https://images.icon-icons.com/2699/PNG/512/docker_tile_logo_icon_168248.png">
+<img style="margin: 0 5px" width="88" src="./public/docker-logo.png">
 
 </div>
 

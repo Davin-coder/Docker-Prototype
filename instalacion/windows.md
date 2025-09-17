@@ -3,8 +3,8 @@
 
 # Guía - Instalación de Docker en Windows
 
-<img style="margin: 0 5px" width="88" src="https://images.icon-icons.com/2699/PNG/512/docker_tile_logo_icon_168248.png">
-<img style="margin: 0 5px" width="88" src="https://images.seeklogo.com/logo-png/40/2/windows-11-icon-logo-png_seeklogo-406208.png">
+<img style="margin: 0 5px" width="88" src="../public/docker-logo.png">
+<img style="margin: 0 5px" width="88" src="../public/windows-logo.png">
 
 </div>
 
