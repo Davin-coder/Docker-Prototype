@@ -95,3 +95,5 @@ sudo usermod -aG docker $USER
 - En producción: considerar seguridad (rootless, control de accesos, escaneo de imágenes, políticas de actualización).
 
 - Para usar docker compose, usa `docker compose up` (Compose V2 se instala como plugin en los pasos anteriores).
+
+- Instala y usa Docker desktop para poder tener una mejor guia visual sobre tus contenedores.

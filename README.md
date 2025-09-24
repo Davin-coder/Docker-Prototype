@@ -20,7 +20,7 @@ Docker es una plataforma para **empaquetar, distribuir y ejecutar** aplicaciones
 - **Ligereza:** arranca en segundos (comparte kernel, no es una VM completa).
 - **Dev/CI/CD:** builds, tests y despliegues más confiables.
 
-Para su instalación depende de tu sistema operativo, si quieres aprender a como instalarlo correctamente en Windows dirigete aquí [Instalación para Windows](./instalacion/windows.md).
+Para su instalación depende de tu sistema operativo, si quieres aprender a como instalarlo correctamente en Windows dirigete aquí [Instalación para Windows](./instalacion/windows.md), para ubuntu dirigete al siguiente [Instalación para Ubuntu](./instalacion/ubuntu.md).
 
 ---
 
