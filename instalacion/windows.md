@@ -37,10 +37,8 @@ echo $WSL_DISTRO_NAME  # muestra la distro actual
 ---
 
 ## 3) Instalación paso a paso (Windows 10/11)
-1. **Habilitar WSL 2** (PowerShell *Admin*):
-    ```powershell
-    dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
-    dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+1. **Habilitar WSL 2** (CMD):
+    ```cmd
     wsl --install -d Ubuntu
     wsl --set-default-version 2
     ```
